@@ -3,7 +3,7 @@
 ========================================================= -->
 
 <div align="center">
-  <h1>Muhammad Rohan Farooqui</h1>
+  <h1>Rohan Farooqui</h1>
   <h3>Data &amp; Automation Engineer • Researcher</h3>
   <p>🎓 FAST-NUCES ’17 &amp; ’23</p>
   <p>
