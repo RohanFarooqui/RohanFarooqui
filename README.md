@@ -71,21 +71,24 @@
 <h2>📊 GitHub Overview</h2>
 
 <!-- Contribution / Activity Graph -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RohanFarooqui&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt=""
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RohanFarooqui&theme=github_dark"
-    width="100%"
-    alt=""
-  />
-</p>
+<table width="100%">
+  <tr>
+    <td width="65%" align="center" valign="middle">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=RohanFarooqui&theme=github-compact&hide_border=true&area=true"
+        width="100%"
+        alt="GitHub Activity Graph"
+      />
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RohanFarooqui&theme=github_dark"
+        width="100%"
+        alt="GitHub Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
