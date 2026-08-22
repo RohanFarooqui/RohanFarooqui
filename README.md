@@ -79,30 +79,15 @@
   />
 </p>
 
-<br>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RohanFarooqui&theme=github_dark"
+    width="100%"
+    alt=""
+  />
+</p>
 
-<!-- Languages + Stats -->
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RohanFarooqui&theme=github_dark"
-        width="100%"
-        alt="GitHub Stats"
-      />
-    </td>
-    <!-- <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RohanFarooqui&theme=github_dark"
-        width="100%"
-        alt="Rohan Farooqui - Languages"
-      />
-    </td> -->
-    
-  </tr>
-</table>
 
-<br>
 
 <hr>
 
